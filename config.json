@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicedave",
+        "uuid": 25905022,
+        "checksum": "mxj5e"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
